@@ -17,4 +17,4 @@ var searchInsert = (nums, target) => {
 
     return left;
 };
-console.log("Insert Target at index : "+searchInsert(nums,target))
+document.write("Insert Target at index : "+searchInsert(nums,target))

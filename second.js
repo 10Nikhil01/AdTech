@@ -13,4 +13,4 @@ var jump = function(nnums) {
     }
     return step;
 };
-console.log("Steps to reach end : "+ jump(nnums));
+document.write("\n Steps to reach end : "+ jump(nnums));
